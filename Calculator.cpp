@@ -8,7 +8,7 @@ int main(){
 		system("cls");
 		int num1, num2, add=0, sub=0, mult=0, div=0;
 		char choose;
-		cout<<"[+] - Addition\n[-] - Subtraction\n[*] - Multiplication\n[/] - Devision\nChoose Operator: "; 
+		cout<<"[+] - Addition\n[-] - Subtraction\n[*] - Multiplication\n[/] - Division\nChoose Operator: "; 
 		cin >> choose;
 		cout<<endl;
 		switch(choose){
